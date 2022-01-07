@@ -1,4 +1,4 @@
-<h1 align= center><b>⭐️ Music Player ⭐️</b></h1>
+<h1 align= center><b>✨ 𝐑⭕𝐒𝐈 Music  ✨</b></h1>
 <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 
 <p align="center">
@@ -63,7 +63,7 @@ Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
-$ git clone https://github.com/AsmSafone/MusicPlayer
+$ git clone https://github.com/PramyavincyGp/Music
 $ cd MusicPlayer
 $ cp sample.env .env
 < edit .env with your own values >
